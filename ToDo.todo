@@ -1,6 +1,20 @@
 Bug:
  ☐ Remove Black Border Around Text Area @created(20-12-17 14:21)
 
+Feature:
+ ☐ Add Backspace @created(20-05-11 08:37)
+ ☐ Add Enter Key @created(20-05-11 08:37)
+ ☐ Add Large Space Bar @created(20-05-11 08:38)
+ ☐ Add Copy / Cut / Delete Text Button @created(20-12-17 14:11)
+ ☐ Add Punctuation Marks @created(20-12-18 17:35)
+ ☐ Make a GitHub page @created(21-05-16 08:18)
+ ☐ Add feedback link @created(21-05-16 08:34)
+ ☐ Add save / auto save option while running from local server @created(22-01-09 05:45)
+ ☐ Add bootstrap @created(22-01-09 05:46)
+ ☐ Add combined letters @created(22-11-16 01:54)
+ ☐ Add buttons to increase/decrease font size @created(22-11-16 02:03)
+ ☐ Separate column for combined letters
+
 Improvement:
  ☐ Add padding top to text area @created(21-05-16 08:17)
  ☐ Set Default Font @created(20-12-18 17:35)
