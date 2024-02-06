@@ -7,6 +7,17 @@
 	<link rel="shortcut icon" href="src/favicon.ico">
 </head>
 <body>
+
+<!--
+Body Structure
+--------------
+.container
+	textarea
+	.letters
+		.left
+		.right
+-->
+
 <div class="container">
 	<textarea cols="70" rows="5" autofocus></textarea>
 	<br>
