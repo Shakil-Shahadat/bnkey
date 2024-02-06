@@ -83,6 +83,47 @@
 			<button onclick="add( this.innerText )">ঃ</button>
 			<button onclick="add( this.innerText )">ঁ</button>
 		</div> <!-- .left -->
+
+		<div class="right">
+			<button onclick="add( this.innerText )">া</button>
+			<button onclick="add( this.innerText )">ি</button>
+			<button onclick="add( this.innerText )">ী</button>
+			<button onclick="add( this.innerText )">ু</button>
+			<button onclick="add( this.innerText )">ূ</button>
+			<br>
+
+			<button onclick="add( this.innerText )">ৃ</button>
+			<button onclick="add( this.innerText )">ে</button>
+			<button onclick="add( this.innerText )">ৈ</button>
+			<button onclick="add( this.innerText )">ো</button>
+			<button onclick="add( this.innerText )">ৌ</button>
+			<br>
+
+			<button onclick="add( this.innerText )">্</button>
+			<button onclick="add( this.innerText )">্য</button>
+			<button onclick="add( this.innerText )">্র</button>
+			<hr>
+
+			<button onclick="add( this.innerText )">০</button>
+			<button onclick="add( this.innerText )">১</button>
+			<button onclick="add( this.innerText )">২</button>
+			<button onclick="add( this.innerText )">৩</button>
+			<button onclick="add( this.innerText )">৪</button>
+			<br>
+
+			<button onclick="add( this.innerText )">৫</button>
+			<button onclick="add( this.innerText )">৬</button>
+			<button onclick="add( this.innerText )">৭</button>
+			<button onclick="add( this.innerText )">৮</button>
+			<button onclick="add( this.innerText )">৯</button>
+			<hr>
+
+			<button onclick="add( this.innerText )">,</button>
+			<button onclick="add( this.innerText )">।</button>
+			<button onclick="add( this.innerText )">-</button>
+			<button onclick="add( this.innerText )">.</button>
+			<button onclick="add( this.innerText )">\b</button>
+		</div> <!-- .right -->
 	</div> <!-- .letters -->
 </div> <!-- .container -->
 
