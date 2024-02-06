@@ -16,3 +16,7 @@ textarea
 {
     display: flex;
 }
+.letters div
+{
+    padding: 10px 50px;
+}
