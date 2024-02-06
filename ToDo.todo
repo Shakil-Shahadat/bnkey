@@ -7,7 +7,6 @@ Feature:
  ☐ Add Large Space Bar @created(20-05-11 08:38)
  ☐ Add Copy / Cut / Delete Text Button @created(20-12-17 14:11)
  ☐ Add Punctuation Marks @created(20-12-18 17:35)
- ☐ Make a GitHub page @created(21-05-16 08:18)
  ☐ Add feedback link @created(21-05-16 08:34)
  ☐ Add save / auto save option while running from local server @created(22-01-09 05:45)
  ☐ Add bootstrap @created(22-01-09 05:46)
@@ -19,6 +18,8 @@ Improvement:
  ☐ Add onclick event dynamically @created(21-05-16 08:18)
  ☐ Add letters at cursor position, see https://www.lexilogos.com/code/base.js @created(21-05-16 10:15)
 https://www.lexilogos.com/keyboard/bengali.htm
+ ☐ Add a readme file @created(24-02-06 13:17)
+ ☐ Change branch name main from master @created(24-02-06 13:18)
 
 Change:
 
