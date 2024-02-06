@@ -10,6 +10,9 @@
 <div class="container">
 	<textarea cols="70" rows="5" autofocus></textarea>
 	<br>
+
+	<div class="letters">
+	</div> <!-- .letters -->
 </div> <!-- .container -->
 
 <script src="src/script.js"></script>
