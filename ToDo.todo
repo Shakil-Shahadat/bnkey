@@ -16,7 +16,6 @@ Feature:
  ☐ Separate column for combined letters
 
 Improvement:
- ☐ Add padding top to text area @created(21-05-16 08:17)
  ☐ Set Default Font @created(20-12-18 17:35)
  ☐ Add onclick event dynamically @created(21-05-16 08:18)
  ☐ Add letters at cursor position, see https://www.lexilogos.com/code/base.js @created(21-05-16 10:15)
